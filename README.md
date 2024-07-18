@@ -1,6 +1,6 @@
 ## bimd
 
-[![R build status](https://github.com/brechtdv/bimd/workflows/R-CMD-check/badge.svg)](https://github.com/brechtdv/bimd/actions?workflow=R-CMD-check)
+[![R build status](https://github.com/sciensanogit/bimd/workflows/R-CMD-check/badge.svg)](https://github.com/sciensanogit/bimd/actions?workflow=R-CMD-check)
 
 _Belgian Index of Multiple Deprivation_
 
@@ -25,7 +25,7 @@ Furtherr details about the BIMD project are available via https://bimd.sciensano
 
 To download and install the latest development version from GitHub:
 ```r
-devtools::install_github("brechtdv/bimd-pkg")
+devtools::install_github("sciensanogit/bimd-pkg")
 ```
 To use the installed package:
 ```r
