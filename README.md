@@ -10,7 +10,7 @@ The methodology underlying the Belgian Index of Multiple Deprivation is detailed
 
 The BIMD estimates can be downloaded via https://github.com/sciensanogit/bimd.
 
-Furtherr details about the BIMD project are available via https://bimd.sciensano.be.
+Further details about the BIMD project are available via https://bimd.sciensano.be.
 
 #### Available datasets
 
