@@ -111,3 +111,5 @@ save(bimd2001_sect, file = "../data/bimd2001_sect.rda")
 save(bimd2011_sect, file = "../data/bimd2011_sect.rda")
 save(bimd2001_muni, file = "../data/bimd2001_muni.rda")
 save(bimd2011_muni, file = "../data/bimd2011_muni.rda")
+
+tools::resaveRdaFiles("../data", compress = "xz")
