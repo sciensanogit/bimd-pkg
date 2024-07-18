@@ -6,7 +6,7 @@ _Belgian Index of Multiple Deprivation_
 
 The `bimd` package provides datasets containing the scores, ranks and deciles of the Belgian Index of Multiple Deprivation and its subdomains, by statistical sector and municipality.
 
-The methodology underlying the Belgian Index of Multiple Deprivation is detailed in [Otavova et al. (2023)](https://doi.org/10.1007/s10198-009-0167-0).
+The methodology underlying the Belgian Index of Multiple Deprivation is detailed in [Otavova et al. (2023)](https://10.0.3.248/j.sste.2023.100587).
 
 The BIMD estimates can be downloaded via https://github.com/sciensanogit/bimd.
 
@@ -26,4 +26,8 @@ Furtherr details about the BIMD project are available via https://bimd.sciensano
 To download and install the latest development version from GitHub:
 ```r
 devtools::install_github("brechtdv/bimd-pkg")
+```
+To use the installed package:
+```r
+library(bimd)
 ```
