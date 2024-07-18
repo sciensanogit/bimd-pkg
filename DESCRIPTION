@@ -8,5 +8,5 @@ Author: Brecht Devleesschauwer [aut, cre]
 Maintainer: Brecht Devleesschauwer <brechtdv@gmail.com>
 Description: Datasets containing the scores, ranks and deciles of the Belgian Index of Multiple Deprivation and its subdomains, by statistical sector and municipality.
 Depends: R (>= 4.3.0)
-License: GPL-3
+License: GPL-3 + file LICENSE
 LazyData: true
