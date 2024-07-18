@@ -1,6 +1,7 @@
 \docType{data}
 
-\name{bimd2001_sect}
+\name{bimd2001_data}
+\alias{bimd2001_sect}
 \alias{bimd2011_sect}
 \alias{bimd2001_muni}
 \alias{bimd2011_muni}
