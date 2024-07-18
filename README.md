@@ -1,6 +1,6 @@
 ## bimd
 
-[![R build status](https://github.com/sciensanogit/bimd/workflows/R-CMD-check/badge.svg)](https://github.com/sciensanogit/bimd/actions?workflow=R-CMD-check)
+[![R build status](https://github.com/sciensanogit/bimd-pkg/workflows/R-CMD-check/badge.svg)](https://github.com/sciensanogit/bimd-pkg/actions?workflow=R-CMD-check)
 
 _Belgian Index of Multiple Deprivation_
 
