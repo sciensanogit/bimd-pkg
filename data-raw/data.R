@@ -107,9 +107,7 @@ str(bimd2011_sect)
 ### SAVE DATA
 ###
 
-save(
-  bimd2001_sect,
-  bimd2011_sect,
-  bimd2001_muni,
-  bimd2011_muni,
-  file = "../R/sysdata.rda")
+save(bimd2001_sect, file = "../R/bimd2001_sect.rda")
+save(bimd2011_sect, file = "../R/bimd2011_sect.rda")
+save(bimd2001_muni, file = "../R/bimd2001_muni.rda")
+save(bimd2011_muni, file = "../R/bimd2011_muni.rda")
